@@ -1,3 +1,5 @@
+*** Run Match.java as Java Application and provide Input to test ***
+
 com.cricket.player:
 	Player.java: Stores all player details.
 	BattingStatus.java: Enum for batting status Batting/Out/YetToBat.
